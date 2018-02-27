@@ -1,2 +1,2 @@
-# inetocoin.github.io
+# theineto.github.io
 Web-site ineto.org
